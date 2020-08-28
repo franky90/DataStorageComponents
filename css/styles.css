@@ -27,7 +27,7 @@ p {
 .flex-container {
 
   display: flex;
-  margin-top: 25%;
+  margin-top: 20%;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
