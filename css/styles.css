@@ -188,7 +188,8 @@ background-color: hsl(229, 57%, 11%);
 .bottomimage {
 
   bottom: 0;
-  left: 70px;
+  left: 10%;
+  right: 10%;
   position: absolute;
   width: 1440px;
   height: 420px;
@@ -201,6 +202,7 @@ background-color: hsl(229, 57%, 11%);
 @media(max-width: 920px) {
   .bottomimage {
     left:0;
+    right:0;
      background: url('../images/bg-mobile.png');
      background-size: cover;
      background-origin:initial;
